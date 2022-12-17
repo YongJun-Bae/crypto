@@ -1,2 +1,2 @@
 # crypto
-## Practice Crypto Algorithm
+## Practice Crypto Algorithms
